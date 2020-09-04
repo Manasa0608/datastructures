@@ -1,5 +1,9 @@
 package Arrays;
 
+/*
+    Given a array, rotate the elements right from the end for the given number of times
+    @returns the rotated array
+ */
 public class RightRotation {
     public static void main(String[] args) {
         int arr[] = new int[]{1, 3, 5, 7, 8, 9, 2, 4, 6, 10};

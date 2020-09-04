@@ -1,5 +1,9 @@
 package Arrays;
 
+/*
+    Given a array, rotate the elements right from the beginning for the given number of times
+    @returns the rotated array
+ */
 public class LeftRotation {
 
     public static void main(String[] args) {
