@@ -1,4 +1,4 @@
-package Arrays;
+package LeetCode;
 
 /*
     Given a array, rotate the elements right from the beginning for the given number of times
